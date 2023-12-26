@@ -33,18 +33,18 @@ See the [Faucet](https://github.com/arynyestos/CodeCryptoFaucetProject) and [SQL
 2. Navigate to the project directory:
 
    ```bash
-    cd CodeCryptoETHShoppingCartProject
+   cd CodeCryptoETHShoppingCartProject
    ```
 
 3. Navigate to the "front" directory:
 
    ```bash
-    cd .\front\
+   cd .\front\
    ```
    
 4. Install dependencies:
    ```bash
-    yarn
+   yarn
    ```
   
    
@@ -56,13 +56,13 @@ See the [Faucet](https://github.com/arynyestos/CodeCryptoFaucetProject) and [SQL
    cd .\server\  
    ```
 2. Run the server:
-       ```bash
-        node server 
-       ```
+    ```bash
+    node server 
+    ```
 3. Run the front end:
-```bash
-yarn dev
-```
+   ```bash
+   yarn dev
+   ```
 
 ## Technologies Used
 - Docker
