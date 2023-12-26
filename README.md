@@ -71,7 +71,7 @@ See the [Faucet](https://github.com/arynyestos/CodeCryptoFaucetProject) and [SQL
 
 ## Demo
 
-Below you can a video showcasing the functionality of the project.
+Below you can a video showcasing the functionality of the project: a product is selected, thus navigating to the product's page, an amount is selected and the product is added to the cart. Then, navigating to the cart, the payment is made (although Metamask wasn't captured by the screen recording software, the transaction hash is displayed below).
 
 https://github.com/arynyestos/CodeCryptoEthEcommerce/assets/33223441/3b357e40-4d51-4d10-b467-52db5205e39b
 
