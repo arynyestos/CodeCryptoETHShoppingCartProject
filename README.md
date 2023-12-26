@@ -1,4 +1,4 @@
-# ETH Shopping Cart Project
+# ETH e-commerce Project
 
 This project consisted in creating an e-commerce in which payments were made with ETH. For this we leveraged both the local network created in the Faucet project and the database created on the SQL project as the e-commerce's product database.
 
@@ -27,13 +27,13 @@ See the [Faucet](https://github.com/arynyestos/CodeCryptoFaucetProject) and [SQL
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/arynyestos/CodeCryptoETHShoppingCartProject.git
+   git clone https://github.com/arynyestos/CodeCryptoEthEcommerce.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd CodeCryptoETHShoppingCartProject
+   cd CodeCryptoEthEcommerce
    ```
 
 3. Navigate to the "front" directory:
