@@ -49,9 +49,9 @@ export function Cesta() {
             <table className='table'>
                 <thead>
                     <tr>
-                        <th scope="col">Nombre</th>
-                        <th scope="col">Precio</th>
-                        <th scope="col">Cantidad</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Price</th>
+                        <th scope="col">Amount</th>
                         <th scope="col">Total</th>
                     </tr>
                 </thead>
@@ -70,11 +70,11 @@ export function Cesta() {
                     ))}
                 </tbody>
             </table>
-            <div>Total a pagar: {total}</div>
-            <div>Cuenta: {cuenta}</div>
-            <button className='my-3 btn btn-primary' onClick={pagar}>Pagar</button>
-            {txOk && <div className=' my-3 alert alert-success'>Transacción enviada: {txOk}</div>}
-            {txRechazo && <div className=' my-3 alert alert-danger'>Transacción cancelada: {JSON.stringify(txRechazo.message)}</div>}
+            <div>Total to pay: {total}</div>
+            <div>Wallet: {cuenta}</div>
+            <button className='my-3 btn btn-primary' onClick={pagar}>Pay</button>
+            {txOk && <div className=' my-3 alert alert-success'>Transaction sent: {txOk}</div>}
+            {txRechazo && <div className=' my-3 alert alert-danger'>Transaction canceled: {JSON.stringify(txRechazo.message)}</div>}
         </div>
     )
 }
