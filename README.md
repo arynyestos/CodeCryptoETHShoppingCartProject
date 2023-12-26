@@ -43,9 +43,9 @@ See the [Faucet](https://github.com/arynyestos/CodeCryptoFaucetProject) and [SQL
    ```
    
 4. Install dependencies:
-```bash
-yarn
-```
+   ```bash
+    yarn
+   ```
   
    
      
