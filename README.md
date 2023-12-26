@@ -46,8 +46,6 @@ See the [Faucet](https://github.com/arynyestos/CodeCryptoFaucetProject) and [SQL
    ```bash
    yarn
    ```
-  
-   
      
 ## Usage
    
@@ -73,7 +71,11 @@ See the [Faucet](https://github.com/arynyestos/CodeCryptoFaucetProject) and [SQL
 
 ## Demo
 
-Below you can a videos showcasing the functionality of the developed project.
+Below you can a video showcasing the functionality of the project.
+
+https://github.com/arynyestos/CodeCryptoEthEcommerce/assets/33223441/3b357e40-4d51-4d10-b467-52db5205e39b
+
+
 
 
 
